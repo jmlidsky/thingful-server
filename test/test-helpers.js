@@ -1,4 +1,5 @@
 const bcrypt = require('bcryptjs')
+
 function makeUsersArray() {
   return [
     {
